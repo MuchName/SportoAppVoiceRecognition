@@ -1,0 +1,20 @@
+c:\users\marius\source\repos\SportoAppVR\SportoAppVR\bin\Debug\SportoAppVR.exe.config
+c:\users\marius\source\repos\SportoAppVR\SportoAppVR\bin\Debug\SportoAppVR.exe
+c:\users\marius\source\repos\SportoAppVR\SportoAppVR\bin\Debug\SportoAppVR.pdb
+c:\users\marius\source\repos\SportoAppVR\SportoAppVR\obj\Debug\SportoAppVR.csprojAssemblyReference.cache
+c:\users\marius\source\repos\SportoAppVR\SportoAppVR\obj\Debug\SportoAppVR.Form1.resources
+c:\users\marius\source\repos\SportoAppVR\SportoAppVR\obj\Debug\SportoAppVR.Properties.Resources.resources
+c:\users\marius\source\repos\SportoAppVR\SportoAppVR\obj\Debug\SportoAppVR.csproj.GenerateResource.cache
+c:\users\marius\source\repos\SportoAppVR\SportoAppVR\obj\Debug\SportoAppVR.csproj.CoreCompileInputs.cache
+c:\users\marius\source\repos\SportoAppVR\SportoAppVR\obj\Debug\SportoAppVR.exe
+c:\users\marius\source\repos\SportoAppVR\SportoAppVR\obj\Debug\SportoAppVR.pdb
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\SportoAppVR\SportoAppVR\bin\Debug\SportoAppVR.exe.config
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\SportoAppVR\SportoAppVR\bin\Debug\SportoAppVR.exe
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\SportoAppVR\SportoAppVR\bin\Debug\SportoAppVR.pdb
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\SportoAppVR\SportoAppVR\obj\Debug\SportoAppVR.csprojAssemblyReference.cache
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\SportoAppVR\SportoAppVR\obj\Debug\SportoAppVR.Form1.resources
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\SportoAppVR\SportoAppVR\obj\Debug\SportoAppVR.Properties.Resources.resources
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\SportoAppVR\SportoAppVR\obj\Debug\SportoAppVR.csproj.GenerateResource.cache
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\SportoAppVR\SportoAppVR\obj\Debug\SportoAppVR.csproj.CoreCompileInputs.cache
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\SportoAppVR\SportoAppVR\obj\Debug\SportoAppVR.exe
+G:\Iš kompo 2019.02.19\Programavimas\source\repos\SportoAppVR\SportoAppVR\obj\Debug\SportoAppVR.pdb
